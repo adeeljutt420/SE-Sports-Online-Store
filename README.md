@@ -2,7 +2,7 @@
 This is an e-commerce website for an online sports store developed for the Software Engineering Lab course.
 
 ### Description
-The Online Sports Store is an e-commerce web application where users can browse, search, and purchase sports equipment and apparel. Key features include user accounts, product catalog, shopping cart, checkout, order tracking, admin portal, and more.
+The Online Sports Store is an e-commerce web application where users can Browse, Search, and Purchase sports goods. Key features include user Account handling, Manage Product Quantity, Product catalog, Shopping cart, Checkout, Order tracking, Admin portal, and more.
 
 ### Technologies
 Frontend: React, NextJS, Tailwind CSS
@@ -10,7 +10,7 @@ Backend: Node.js, Express
 Database: MongoDB
 
 ### Developer
-This project was developed by Muhammad Danish Ghaffar as part of the Software Engineering course.
+This project was developed by Muhammad Danish Ghaffar as part of the Software Engineering Lab course.
 
 ### Course
 Software Engineering
