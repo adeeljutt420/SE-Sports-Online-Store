@@ -1,4 +1,4 @@
-# Online Sports Store
+# Online  Store
 This is an e-commerce website for an online sports store developed for the Software Engineering Lab course.
 
 ### Description
